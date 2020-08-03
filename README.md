@@ -19,5 +19,6 @@ On this application:
     * At least one of each selected characters type will be included on the random password. 
     * The password will be written to the page.
 
+        ![password generator demo](./Password_Generator_Demo.JPG)
 
 
